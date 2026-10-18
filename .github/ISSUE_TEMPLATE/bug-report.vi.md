@@ -1,3 +1,11 @@
+---
+name: Báo cáo lỗi (Bug Report)
+about: Mẫu báo cáo lỗi chi tiết cho tính năng
+title: 'BUG-FRxx-nn: '
+labels: 'bug'
+assignees: ''
+---
+
 # BUG-FRxx-nn: <Tiêu đề ngắn gọn, nêu rõ hành vi sai>
 
 | Mục | Nội dung |
